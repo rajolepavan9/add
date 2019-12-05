@@ -5,6 +5,7 @@
 int main()
 {
 int p,q,a,b;
+scanf("%d %d",&a,&b);
 p=sum(a,b);
 q=fact(p);
 printf("sum=%d",p);
