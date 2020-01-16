@@ -1,5 +1,7 @@
-int sum(int x,int y)
+#include<stdio.h>
+int main()
 {
-return x+y;
+printf("eee");
 }
+
 
